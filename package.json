@@ -1,0 +1,21 @@
+{
+  "name": "guess-note",
+  "version": "1.0.1",
+  "description": "Guessing notes in one ocatave by frequency in Hz",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository" : { 
+    "type" : "git",
+    "url" : "https://github.com/sntxerror/guess-note.git"
+  },
+  "author": "Leonid Motorin",
+  "license": "ISC"
+}
+
