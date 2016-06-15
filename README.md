@@ -1,7 +1,7 @@
 # Guss Note JS
 
 Returns a closest note number from curren octave by given frequency of sound and kamertone in Hz. Notes ordered from "A" to "G#":
-
+gi
 index|note
 ---|---
 0|A
@@ -27,6 +27,10 @@ Use:
 
 ```javascript
 var gn = require('guess-note');
-var note = gn.guessNote(466, 440)
+
+//460 is input frequency
+//440 is kamertone frequency (note A), differs for different cultures
+var note = gn.guessNote(466, 440); 
+
 ```
 
