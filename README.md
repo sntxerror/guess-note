@@ -1,7 +1,7 @@
 # Guss Note JS
 
 Returns a closest note number from curren octave by given frequency of sound and kamertone in Hz. Notes ordered from "A" to "G#":
-gi
+
 index|note
 ---|---
 0|A
