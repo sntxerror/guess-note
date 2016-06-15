@@ -1,4 +1,4 @@
-# Guss Note JS
+# Guess Note JS
 
 Returns a closest note number from curren octave by given frequency of sound and kamertone in Hz. 
 
