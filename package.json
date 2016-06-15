@@ -1,6 +1,6 @@
 {
   "name": "guess-note",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Guessing notes in one ocatave by frequency in Hz",
   "main": "index.js",
   "dependencies": {},

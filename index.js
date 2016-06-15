@@ -38,4 +38,4 @@ function getClosestNote(frequency, octave){
 	return closest;
 }
 
-module.exports = guessNote;
+module.exports.guessNote = guessNote;
